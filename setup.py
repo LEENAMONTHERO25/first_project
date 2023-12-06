@@ -20,5 +20,5 @@ setup(
     author='Leena monthero',
     author_email='leenamonthero@gmail.com',
     install_requires=["scikit-learn","pandas","numpy",],
-    packages=find_packages()
+    packages=find_packages()      #to find the local packages
 )
